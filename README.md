@@ -34,7 +34,7 @@ note that these techniques were chosen as they were discussed in class.
 6. Accuracy was calculated thereafter. 
 
 
-#result
+## result explanation
 1.	Logistic regression (M1) performed best with bootstrap sampling (sample5) with an accuracy of 99.13%.
 2.	Decision tree (M2) achieved its highest accuracy of 99.56% using bootstrap sampling (sample5).
 3.	Random forest (M3) showed the best performance with simple random, stratified, and cluster sampling (sample1, sample2, sample3), achieving 100% accuracy.
