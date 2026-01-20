@@ -35,11 +35,11 @@ note that these techniques were chosen as they were discussed in class.
 
 
 #result
-	1.	Logistic regression (M1) performed best with bootstrap sampling (sample5) with an accuracy of 99.13%.
-	2.	Decision tree (M2) achieved its highest accuracy of 99.56% using bootstrap sampling (sample5).
-	3.	Random forest (M3) showed the best performance with simple random, stratified, and cluster sampling (sample1, sample2, sample3), achieving 100% accuracy.
-	4.	Naive bayes (M4) performed best with bootstrap sampling (sample5) with an accuracy of 92.79%.
-	5.	KNN (M5) achieved the highest accuracy of 99.34% using bootstrap sampling (sample5).
+1.	Logistic regression (M1) performed best with bootstrap sampling (sample5) with an accuracy of 99.13%.
+2.	Decision tree (M2) achieved its highest accuracy of 99.56% using bootstrap sampling (sample5).
+3.	Random forest (M3) showed the best performance with simple random, stratified, and cluster sampling (sample1, sample2, sample3), achieving 100% accuracy.
+4.	Naive bayes (M4) performed best with bootstrap sampling (sample5) with an accuracy of 92.79%.
+5.	KNN (M5) achieved the highest accuracy of 99.34% using bootstrap sampling (sample5).
 
 
 
