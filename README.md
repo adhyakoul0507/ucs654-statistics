@@ -1,5 +1,6 @@
 # Sampling Assignment
 
+csv link: https://github.com/AnjulaMehto/Sampling_Assignment/blob/main/Creditcard_data.csv
 
 ## Sampling techniques used
 
