@@ -1,7 +1,7 @@
 # Sampling Assignment
 
 
-## Sampling Techniques Used
+## Sampling techniques used
 
 Five different samples were created after balancing the dataset:
 
@@ -14,7 +14,7 @@ sample5 – bootstrap sampling
 note that these techniques were chosen as they were discussed in class.
 
 
-## ML Models Used
+## ML models used
 
 1. M1 – Logistic Regression  
 2. M2 – Decision Tree  
