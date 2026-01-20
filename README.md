@@ -26,12 +26,11 @@ note that these techniques were chosen as they were discussed in class.
 
 ## Methodology
 
-1. The dataset was first loaded and checked for class imbalance.
-2. Random Oversampling was used to balance the dataset.
-3. Five samples were created using different sampling techniques.
-4. Each sample was split into training and testing data.
-5. All five models were trained on each sample.
-6. Accuracy was calculated thereafter. 
+1. To handle the imbalance, random oversampling was applied so that both classes had equal representation. This helped ensure that the machine learning models were not biased towards the majority class.
+2. Five samples were created using different sampling techniques.
+3. Each sample was split into training and testing data.
+4. Five machine learning models were trained separately on each sample. These included Logistic regression, decision tree, random forest, Naive bayes, and KNN
+5. Accuracy was calculated thereafter. 
 
 
 ## result explanation
