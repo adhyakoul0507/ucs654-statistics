@@ -106,19 +106,15 @@ These parameters are computed directly from the transformed dataset.
 
 ## Results
 
-### Estimated Parameters
 
 The estimated parameters obtained after processing the data are shown below:
 
 | Parameter                  | Description                          | Value                |
 | -------------------------- | ------------------------------------ | -------------------- |
-| Mean (μ)                   | Central tendency of transformed data | 0.029463039837684103 |
-| Variance (σ²)              | Spread of distribution               | Computed from data   |
-| λ (Lambda)                 | Inverse variance term                | 1120.7039391836472   |
-| c (Normalization Constant) | Ensures total probability = 1        | 18.887327585639866   |
+| Mean                       | Central tendency of transformed data | 0.029463039837684103 |
+| Lambda                     | Inverse variance term                | 1120.7039391836472   |
+| c (Normalisation Constant) | Ensures total probability = 1        | 18.887327585639866   |
 
 These values define the final learned probability density function for the transformed NO₂ data.
 
 
-
-tell me and I’ll do it without touching your wording again 👍
